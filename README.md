@@ -119,6 +119,6 @@ The Animal Identification System demonstrates the use of Prolog in a basic Artif
 
 Author
 
-HET H SONI
+HET SONI
 Branch: AI & DS
 College: ADIT, Anand
